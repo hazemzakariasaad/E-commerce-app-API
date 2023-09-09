@@ -1,0 +1,24 @@
+{
+  "name": "commerce-project",
+  "version": "1.0.0",
+  "description": "work to practice ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.0.0",
+    "mongoose": "^7.5.0",
+    "nodemailer": "^6.9.5",
+    "nodeman": "^1.1.2",
+    "nodemon": "^3.0.1",
+    "validator": "^13.11.0"
+  }
+}
